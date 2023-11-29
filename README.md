@@ -35,6 +35,10 @@ Background colour based on priority, red for uncompleted and green for completed
 - user can delete task by clicking on delete task icon
 - user can mark a task as completed by clicking on DONE button
 - Tasks are stored in local storage in a string form and hence can be accesed even after reloading
+
+# setup 
+- to set up the project simply clone the repository
+- you might have to insall dependencies like 'react-router-dom'
   
 
 

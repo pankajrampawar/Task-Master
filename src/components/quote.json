@@ -1,0 +1,33 @@
+[
+    {
+        "quote": "No wise pilot, no matter how great his talent and experiance fails to use a checklist.",
+        "id": "1",
+        "author": "Charlie munger",
+        "image": "/images/images.jpeg"
+    },
+    {
+        "quote": "Put yourself on top of your to do list",
+        "id": "2",
+        "author": "Anonymous",
+        "image": "/images/image2.jpg.avif"
+    },
+    {
+        "quote": "You will never find time for anything. If you want time you must make it.",
+        "id": "3",
+        "author": "Charles Buxton",
+        "image": "/images/image3.jpg"
+    },
+    {
+        "quote": "The time for action is now, it's never too late to do something.",
+        "id": "4",
+        "author": "Antoine de Saint-Exupery",
+        "image": "/images/image4.jpg"
+    },
+    {
+        "quote": "Don't let yeasterday take too much of today",
+        "id": "5",
+        "author": "Will Rogers",
+        "image": "/images/image5.jpg"
+    }
+
+]

@@ -22,6 +22,10 @@ the user can add new tasks by filling this form, there is also a extra feature o
 
 this takes the task stored and fills the information on the form for user to edit, user can edit the task information and hit save it will update the particular task, here for priority the user has select option for drop down menu.
 
+-- landing Page final: <img width="1415" alt="Screenshot 2023-11-29 at 7 37 28 PM" src="https://github.com/pankajrampawar/Task-Master/assets/126715454/43025095-a113-49c5-b1fe-b81d7531f1a1">
+Background colour based on priority, red for uncompleted and green for completed, threre is also date display for task created date and task completed date.
+
+
 
 # styling
 

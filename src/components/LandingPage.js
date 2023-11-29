@@ -112,7 +112,7 @@ return (
         ))}
     </div>
 
-    <div className='flex w-screen justify-center pt-32 bg-VDB gap-6 pb-24 flex-wrap'>
+    <div className='w-full bg-VDB flex pt-32 px-10 pb-32 justify-center gap-6 flex-wrap'>
         {tasksArray === 0 ? '' : tasksArray.map((task)=>{
             return(
                 <div>

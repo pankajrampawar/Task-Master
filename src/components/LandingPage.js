@@ -121,7 +121,7 @@ return (
                     key={task.title} 
                     className={`bg-DB max-w-[230px] flex flex-col p-4 gap-2 shadow-lg rounded-xl shadow-green-600`}>      
                      <span 
-                         className='notoS text-xl tracking-widest underline underline-offset-4 decoration-orange-400'
+                         className='notoS text-xl tracking-widest line-through decoration-orange-400 decoration-4'
                      >
                          {task.title}
                      </span>

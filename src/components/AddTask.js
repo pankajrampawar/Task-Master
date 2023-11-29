@@ -100,9 +100,9 @@ return (
 
         {/* tabs */}
 
-        <div className='h-full w-full flex justify-center items-center gap-40'>
+        <div className='h-full w-full flex justify-center items-center sm:gap-24 lg:gap-40'>
             {/* Qoute */}
-            <div className='h-2/3 w-1/3 bg-DB rounded-2xl shadow-2xl hidden md:block'>
+            <div className='h-2/3 w-1/3 min-w-[300px] bg-DB rounded-2xl shadow-2xl hidden md:block'>
                 <div data-testid="quote"className='h-2/3 flex justify-center items-center text-2xl roboto text-center px-14 tracking-wider leading-relaxed myDiv rounded-t-2xl '>
                     {quote.quote}
                 </div>
@@ -112,7 +112,7 @@ return (
                 </div>
             </div>
             {/* Form */}
-            <div className='h-2/3 bg-DB w-1/3 rounded-2xl text-xl flex flex-col justify-evenly  shadow-2xl p-10 '>
+            <div className='h-2/3 bg-DB w-1/3 min-w-fit rounded-2xl text-xl flex flex-col justify-evenly  shadow-2xl p-10 '>
                 <div className='flex flex-col gap-2'>
                     <span>Task Title</span>
                     <input 
